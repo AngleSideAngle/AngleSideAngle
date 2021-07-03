@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Asa
 
-<!--
-**AngleSideAngle/AngleSideAngle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a rising sophmore at The Bronx High School of Science who is interested in programming
 
-Here are some ideas to get you started:
+Some languages and tools I've worked with include
+- python
+- java
+- html, css, js
+- [discord.py](https://github.com/Rapptz/discord.py)
+- [fabric MC](https://github.com/FabricMC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm working on
+- some minecraft utility mods
+- a command line text editor
+- my personal website

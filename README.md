@@ -1,6 +1,6 @@
 ### Hi, I'm Asa
 
-I am a rising sophmore at The Bronx High School of Science who is interested in programming
+I am a rising sophomore at The Bronx High School of Science who is interested in programming
 
 Some languages and tools I've worked with include
 - python

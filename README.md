@@ -3,7 +3,7 @@
 I am a rising sophomore at The Bronx High School of Science who is interested in programming
 
 Experience:
-<hr>
+<hr />
 - python
 - java
 - html, css, js

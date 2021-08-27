@@ -12,6 +12,6 @@ Experience:
 
 Current projects:
 ---
-- some minecraft utility mods
+- a 2d game in java
 - a command line text editor
 - my personal website

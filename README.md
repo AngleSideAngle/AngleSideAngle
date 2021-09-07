@@ -1,17 +1,9 @@
 Hi, I'm Asa
 ---
-I am a rising sophomore at The Bronx High School of Science who is interested in programming
+I am a sophomore at The Bronx High School of Science who is interested in programming and is driven to learn how things work.
 
-Experience:
----
-- python
-- java
-- html, css, js
-- [discord.py](https://github.com/Rapptz/discord.py)
-- [fabric MC](https://github.com/FabricMC)
-
-Current projects:
+Things I am currently working on
 ---
 - a 2d game in java
-- a command line text editor
+- math discord bot
 - my personal website

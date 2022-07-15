@@ -1,9 +1,10 @@
 Hi, I'm Asa
 ---
-I am a sophomore at The Bronx High School of Science who is interested in programming and is driven to learn how things work.
+I am a rising junior at The Bronx High School of Science who is interested in programming and driven to learn new things.
+Also a member of FRC Team 1155!
 
-Things I am currently working on
+Some of my current projects
 ---
-- a 2d game in java
-- math discord bot
-- my personal website
+- learning rust
+- discord bot tui
+- personal website rewrite

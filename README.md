@@ -1,8 +1,3 @@
----
-title: "Asa Paparo"
-permalink: /
----
-
 Hi, I'm Asa
 ---
 I am a rising junior at The Bronx High School of Science who enjoys programming and learning how things work.

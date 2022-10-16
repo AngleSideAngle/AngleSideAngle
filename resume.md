@@ -18,7 +18,7 @@ I'm a high schooler with a strong passion for learning and working on low level 
 
 ## Experience
 
-### SciBorgs Robotics Team
+### SciBorgs Robotics Team, Bronx Science
 
 **Programming Department** 11/2021 - Present
 
@@ -27,7 +27,7 @@ I'm a high schooler with a strong passion for learning and working on low level 
 - Employs intermediate control theory, path following, and state space in order to maximize the robot’s ability at competitions
 - Uses communication and teamwork skills to work efficiently with other members of the ~50 person team
 
-### Bronx Science Yearbook
+### Bronx Science Yearbook, Bronx Science
 
 **Assistant IT Director** 9/2022 - Present
 
@@ -35,13 +35,13 @@ I'm a high schooler with a strong passion for learning and working on low level 
 - Gains experience with tools such as bash, Ubuntu, Apache, and PHP
 - Practices photography and writing skills for the yearbook
 
-### AtomHacks Committee
+### AtomHacks Committee, Bronx Science
 
 **Programming Department** 10/2022 - Present
 
 Recently accepted
 
-### TechCodes Summer Camp, Brooklyn Tech, Brooklyn, NY 
+### TechCodes Summer Camp, Brooklyn Tech
 
 **Instructor** 7/2022 - 8/2022
 

@@ -1,0 +1,56 @@
+# Asa Paparo
+
+asapaparo@gmail.com\
+https://anglesideangle.github.io/
+
+I'm a high schooler with a strong passion for learning and working on low level systems.
+
+## Education
+
+### Bronx High School of Science, Bronx, NY
+
+**Junior** Expected 6/2024
+
+- GPA 4.0 unweighted
+- Completed AP Computer Science, AP World History, Honors Precalculus, Honors Algebra 2, Honors Chemistry
+- Taking AP Calculus BC, Linear Algebra, AP Physics 1, Game Development, AP US History
+- Scored 5 on AP World History and AP Computer Science exams in Sophomore year
+
+## Experience
+
+### SciBorgs Robotics Team
+
+**Programming Department** 11/2021 - Present
+
+- Maintains a high quality robotics codebases with a team using Java, git and GitHub
+- Researched and taught important aspects of advanced robot code to the rest of the team after we lost all generational knowledge due to Covid-19
+- Employs intermediate control theory, path following, and state space in order to maximize the robot’s ability at competitions
+- Uses communication and teamwork skills to work efficiently with other members of the ~50 person team
+
+### Bronx Science Yearbook
+
+**Assistant IT Director** 9/2022 - Present
+
+- Learns IT skills in managing a production LAMP server
+- Gains experience with tools such as bash, Ubuntu, Apache, and PHP
+- Practices photography and writing skills for the yearbook
+
+### AtomHacks Committee
+
+**Programming Department** 10/2022 - Present
+
+Recently accepted
+
+### TechCodes Summer Camp, Brooklyn Tech, Brooklyn, NY 
+
+**Instructor** 7/2022 - 8/2022
+
+- Taught middle schoolers how to program with Python
+- Introduced students to documentation and gave them the necessary foundation to continue learning on their own
+- Gained a deeper understanding of the fundamentals of programming via teaching others
+
+## Skills
+
+**_Programming Languages_**: Python, Java, Rust, C, JavaScript, bash/zsh, PHP\
+**_Operating Systems_**: Linux (Fedora, Ubuntu), macOS\
+**_Tools_**: VSCode, git, GitHub, React, Next.js

@@ -3,13 +3,13 @@
 [asapaparo@gmail.com](mailto:asapaparo@gmail.com)\
 [anglesideangle.github.io](https://anglesideangle.github.io/)
 
-I'm a high schooler with a strong passion for learning and working on low level systems.
+I'm a high schooler from The Bronx High School of Science interested in operating systems, embedded devices, and computer science.
 
 ## Education
 
-### Bronx High School of Science, Bronx, NY
+### The Bronx High School of Science, Bronx, NY
 
-**Junior** Expected 6/2024
+**Junior** Expected graduation 6/2024
 
 - GPA 4.0 unweighted
 - Completed AP Computer Science, AP World History, Honors Precalculus, Honors Algebra 2, Honors Chemistry
@@ -20,24 +20,24 @@ I'm a high schooler with a strong passion for learning and working on low level 
 
 ### SciBorgs Robotics Team, Bronx Science
 
-**Programming Department** 11/2021 - Present
+**Programming Department** 11/2021 - present
 
-- Maintains a high quality robotics codebases with a team using Java, git and GitHub
-- Researched and taught important aspects of advanced robot code to the rest of the team after we lost all generational knowledge due to Covid-19
+- Maintains robotics codebases with a team using Java, WPILib, git, and GitHub
+- Researched and taught important aspects of advanced robot code to the rest of the team after we lost generational knowledge during pandemic shutdown
 - Employs intermediate control theory, path following, and state space in order to maximize the robot’s ability at competitions
 - Uses communication and teamwork skills to work efficiently with other members of the ~50 person team
 
 ### Bronx Science Yearbook, Bronx Science
 
-**Assistant IT Director** 9/2022 - Present
+**Assistant IT Director** 9/2022 - present
 
-- Learns IT skills in managing a production LAMP server
-- Gains experience with tools such as bash, Ubuntu, Apache, and PHP
+- Utilizes IT skills in managing a production LAMP server
+- Works with with tools such as bash, Ubuntu, Apache, and PHP
 - Practices photography and writing skills for the yearbook
 
 ### AtomHacks Committee, Bronx Science
 
-**Programming Department** 10/2022 - Present
+**Programming Department** 10/2022 - present
 
 Recently accepted
 

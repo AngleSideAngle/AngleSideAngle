@@ -1,7 +1,7 @@
 # Asa Paparo
 
-asapaparo@gmail.com\
-https://anglesideangle.github.io/
+[asapaparo@gmail.com](mailto:asapaparo@gmail.com)\
+[anglesideangle.github.io](https://anglesideangle.github.io/)
 
 I'm a high schooler with a strong passion for learning and working on low level systems.
 

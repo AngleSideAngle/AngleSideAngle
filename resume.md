@@ -32,7 +32,7 @@ I'm a high schooler from The Bronx High School of Science interested in operatin
 **Assistant IT Director** 9/2022 - present
 
 - Utilizes IT skills in managing a production LAMP server
-- Works with with tools such as bash, Ubuntu, Apache, and PHP
+- Works with tools such as bash, Ubuntu, Apache, and PHP
 - Practices photography and writing skills for the yearbook
 
 ### AtomHacks Committee, Bronx Science

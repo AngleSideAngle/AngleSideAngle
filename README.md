@@ -1,6 +1,6 @@
 <!--- This README is used in the rendering of my website -->
 
-I am a rising junior at The Bronx High School of Science who enjoys programming and learning how things work.
+I am a junior at The Bronx High School of Science who enjoys programming and learning how things work.
 
 ### Interests
 I am interested in systems development and low level programming.

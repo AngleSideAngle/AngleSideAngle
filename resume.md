@@ -9,7 +9,7 @@ I'm a rising senior from The Bronx High School of Science interested in operatin
 
 ### The Bronx High School of Science, Bronx, NY
 
-**Junior** Expected graduation 6/2024
+**Rising Senior** Expected graduation 6/2024
 
 - GPA 4.0 unweighted
 - Completed AP Calculus BC, Linear Algebra @ UAlbany, AP Physics 1, AP Computer Science, AP World History, AP US History, Honors Precalculus, Honors Algebra 2, Honors Chemistry

@@ -8,4 +8,4 @@ I'm a rising senior at The Bronx High School of Science who enjoys programming a
 - Member of the [@atomhacks](https://github.com/atomhacks) committee
 - Mentor for FTC 18657 Aim Robotics, FTC 22518 Bronx Sharks, and FLL 18187 Brick Brains
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=84fargo16nk7b2dmlrw72xz8l&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=84fargo16nk7b2dmlrw72xz8l&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=84fargo16nk7b2dmlrw72xz8l&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=154d60&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=84fargo16nk7b2dmlrw72xz8l&redirect=true)

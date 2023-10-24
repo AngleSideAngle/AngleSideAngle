@@ -20,7 +20,6 @@ I'm a rising senior at The Bronx High School of Science who enjoys programming a
 
 - FIRST Robotics, Dean's List Finalist, Spring 2023
 - National Honor Society Member
-- National Merit Scholar, Semi-finalist
 - AP Scholar With Distinction
 
 ## Activities

@@ -1,8 +1,9 @@
 <!--- This README is used in the rendering of my website -->
 
-I'm a rising senior at The Bronx High School of Science who enjoys programming and learning how things work. I love physics, computer science, robotics, control theory, osdev, and more.
+I'm a senior at The Bronx High School of Science who enjoys programming and learning how things work. I love physics, computer science, robotics, control theory, osdev, and more.
 
 ### What I do
+
 - Programming head [@SciBorgs](https://github.com/SciBorgs), FRC Team 1155
 - Student Director of IT and editor for the Bronx Science yearbook and [journalism](https://thesciencesurvey.com/) program
 - Member of the [@atomhacks](https://github.com/atomhacks) committee

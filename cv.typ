@@ -28,12 +28,14 @@
 #linebreak()
 
 *Massachusetts Institute of Technology* #h(1fr) Cambridge, MA \
-Bachelors Degree in Computer Science #h(1fr) 8/2024 - 5/2028 \
-// - #lorem(10)
+Bachelors Degree in Computer Science #h(1fr) 8/2024 - Expected 5/2028 \
+- Member of the MIT Motorsports FSAE team
+- Conducting research on system integration for UAVs with the MIT Marine Autonomy Lab
 
 *The Bronx High School of Science* #h(1fr) Bronx, NY \
 Advanced Regents Diploma #h(1fr) 8/2020 - 6/2024 \
 - 4.0 GPA
+- Completed courses in linear algebra, multivariable calculus, mechanics, and electricity & magnetism
 
 == Experience
 #linebreak()
@@ -50,14 +52,14 @@ Autonomous RACECAR Competitor #h(1fr) 7/2023 - 7/2023 \
 - Researched particle filtering based SLAM and autonomous navigation using LIDAR and IMU
 
 *SciBorgs Robotics Team* #h(1fr) Bronx, NY \
-Head of Programming #h(1fr) 5/2023 – 6/2024 \
-- Led software team of 10+ people in development and integration of software for manual and autonomous robot control
-- Taught rookie members Java, version control, software development practices, linear algebra, calculus, and control theory
+Head of Software #h(1fr) 5/2023 – 6/2024 \
+- Led software team of 10+ people in development and integration of robot software
+- Taught rookie members programming, version control, software development practices, advanced math, and basic control theory
 
 Programmer #h(1fr) 11/2021 – 6/2024 \
 - Maintained robotics codebases with a team using Java and Git
 - Contributed to upstream development of critical libraries utilized by teams, including WPILib
-- Employed controls, path following, and localization to achieve autonomy in competition
+- Employed control theory, path following, and localization to achieve autonomy in competition
 
 *Bronx Science Journalism/Yearbook* #h(1fr) Bronx, NY \
 Student Director of IT #h(1fr) 9/2022 – 6/2024 \
@@ -70,25 +72,31 @@ Volunteer #h(1fr) 11/2022 - 12/2023 \
 - Mentored the students to engage in a STEM design process
 - Volunteered at local competitions, including as a referee
 
+== Awards
+#linebreak()
+
+*Dean's List Finalist* - FIRST Robotics #h(1fr) 4/2023 \
+*Disruptive Engineering Award* - Beaver Works Summer Institute  #h(1fr) 7/2023
+
 == Skills
 #linebreak()
 
+#let typst  = {
+  text(font: "Linux Libertine", weight: "semibold", fill: eastern)[typst]
+}
+
+#let latex = {
+    set text(font: "New Computer Modern")
+    box(width: 2.55em, {
+      [L]
+      place(top, dx: 0.3em, text(size: 0.7em)[A])
+      place(top, dx: 0.7em)[T]
+      place(top, dx: 1.26em, dy: 0.22em)[E]
+      place(top, dx: 1.8em)[X]
+    })
+}
+
 *Programming*: C++, Rust, Python, Java, Bash, C\#, JS, TS, PHP \
-*Robotics*: ROS2, Gazebo, Nav2, OpenCV, AprilTags \
-*Tools*: Fedora, Ubuntu, Systemd, Helix, Apache, Podman, Docker, Git, GitHub
+*Robotics*: ROS2, Gazebo, Nav2, MOOS-IvP, OpenCV, AprilTags \
+*Tools*: Fedora, Ubuntu, Systemd, Helix, #typst, #latex, Apache, Podman, Docker, Git, GitHub
 
-
-// == Projects
-// #linebreak()
-
-// *#lorem(2)* #h(1fr) 2333/23 -- 2333/23 \
-// #lorem(5) #h(1fr) #lorem(2) \
-// - #lorem(20)
-// - #lorem(30)
-// - #lorem(40)
-
-// *#lorem(2)* #h(1fr) 2333/23 -- 2333/23 \
-// #lorem(5) #h(1fr) #lorem(2) \
-// - #lorem(20)
-// - #lorem(30)
-// - #lorem(40)

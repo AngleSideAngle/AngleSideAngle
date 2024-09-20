@@ -1,16 +1,16 @@
+#set page("us-letter")
 #show heading: set text(font: "Linux Biolinum")
 
 #show link: underline
 
-// Uncomment the following lines to adjust the size of text
-// The recommend resume text size is from `10pt` to `12pt`
-// #set text(
-//   size: 12pt,
-// )
+#set text(
+  size: 11pt,
+)
 
 // Feel free to change the margin below to best fit your own CV
 #set page(
-  margin: (x: 1.2cm, y: 1.2cm),
+  margin: (x: 0.9cm, y: 1.3cm),
+  // margin: (x: 0.4in, y: 0.2in)
 )
 
 #set par(justify: true)
@@ -29,13 +29,14 @@
 
 *Massachusetts Institute of Technology* #h(1fr) Cambridge, MA \
 Candidate for Bachelor's Degree in Computer Science #h(1fr) 8/2024 -- Present \
-- Member of the MIT Motorsports FSAE team
+- Programmer on the MIT Motorsports FSAE team
 // - Conducting research on system integration for UAVs with the MIT Marine Autonomy Lab
 
 *The Bronx High School of Science* #h(1fr) Bronx, NY \
 Advanced Regents Diploma #h(1fr) 8/2020 -- 6/2024 \
 - 4.0 GPA
 - Completed courses in linear algebra, multivariable calculus, mechanics, and electricity & magnetism
+- Student Director of IT for the journalism and yearbook programs
 
 == Experience
 #linebreak()
@@ -59,7 +60,6 @@ Autonomous RACECAR Competitor #h(1fr) 7/2023 -- 7/2023 \
 
 *SciBorgs Robotics Team* #h(1fr) Bronx, NY \
 Head of Software #h(1fr) 5/2023 -- 6/2024 \
-// Programmer #h(1fr) 11/2021 -- 6/2024 \
 - Led software team of 10+ people in development and integration of robot software
 - Taught new members programming, version control, software development practices, calculus, and control theory
 // - Maintained robotics codebases with a team using Java and Git
@@ -70,10 +70,10 @@ Head of Software #h(1fr) 5/2023 -- 6/2024 \
 - Contributed to upstream development of critical libraries utilized by teams, including WPILib
 - Employed control theory, path following, and localization to achieve autonomy in competition
 
-*Bronx Science Journalism/Yearbook* #h(1fr) Bronx, NY \
-Student Director of IT #h(1fr) 9/2022 -- 6/2024 \
-- Maintained a production LAMP server utilizing bash, Ubuntu, Systemd, Apache, PHP, and Podman
-- Published articles for the school newspaper and yearbook
+// *Bronx Science Journalism/Yearbook* #h(1fr) Bronx, NY \
+// Student Director of IT #h(1fr) 9/2022 -- 6/2024 \
+// - Maintained a production LAMP server utilizing bash, Ubuntu, Systemd, Apache, PHP, and Podman
+// - Published articles for the school newspaper and yearbook
 
 *NYC FIRST* #h(1fr) NY \
 Volunteer #h(1fr) 11/2022 -- 12/2023 \

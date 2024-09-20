@@ -28,46 +28,55 @@
 #linebreak()
 
 *Massachusetts Institute of Technology* #h(1fr) Cambridge, MA \
-Bachelors Degree in Computer Science #h(1fr) 8/2024 - Expected 5/2028 \
+Candidate for Bachelor's Degree in Computer Science #h(1fr) 8/2024 -- Present \
 - Member of the MIT Motorsports FSAE team
-- Conducting research on system integration for UAVs with the MIT Marine Autonomy Lab
+// - Conducting research on system integration for UAVs with the MIT Marine Autonomy Lab
 
 *The Bronx High School of Science* #h(1fr) Bronx, NY \
-Advanced Regents Diploma #h(1fr) 8/2020 - 6/2024 \
+Advanced Regents Diploma #h(1fr) 8/2020 -- 6/2024 \
 - 4.0 GPA
 - Completed courses in linear algebra, multivariable calculus, mechanics, and electricity & magnetism
 
 == Experience
 #linebreak()
 
+*MIT Marine Autonomy Lab* #h(1fr) Cambridge, MA \
+Undergraduate Researcher #h(1fr) 9/2024 -- Present \
+- Develop open source interfaces and device drivers for GPS, doppler velocity log, and acoustic modem sensors
+- Integrate sensor components with MOOS-IvP framework to support lab research
+
 *Charles Stark Draper Laboratory* #h(1fr) Cambridge, MA \
-Autonomous Systems Intern #h(1fr) 6/2024 - 8/2024 \
+Autonomous Systems Intern #h(1fr) 6/2024 -- 8/2024 \
 - Developed software for control and simulation of a fully autonomous rover with ROS2 and Gazebo
 - Collaborated with engineering team of 7 interns to budget, plan, and implement solution to design challenge
 
 *Beaver Works Summer Institute* #h(1fr) Cambridge, MA \
-Autonomous RACECAR Competitor #h(1fr) 7/2023 - 7/2023 \
-- Led and supported 3 person team to honorable mention in the Grand Prix
-- Rewrote part of the course’s core library to improve efficiency for all competing and future teams
-- Researched particle filtering based SLAM and autonomous navigation using LIDAR and IMU
+Autonomous RACECAR Competitor #h(1fr) 7/2023 -- 7/2023 \
+// - Led and supported 3 person team to honorable mention in the Grand Prix
+// - Rewrote part of the course’s core library to improve efficiency for all competing and future teams
+- Implemented real time autonomous control of small vehicle with ackermann steering
+- Researched particle filtering based SLAM and autonomous navigation using LIDAR and IMU sensors
 
 *SciBorgs Robotics Team* #h(1fr) Bronx, NY \
-Head of Software #h(1fr) 5/2023 – 6/2024 \
+Head of Software #h(1fr) 5/2023 -- 6/2024 \
+// Programmer #h(1fr) 11/2021 -- 6/2024 \
 - Led software team of 10+ people in development and integration of robot software
-- Taught rookie members programming, version control, software development practices, advanced math, and basic control theory
-
-Programmer #h(1fr) 11/2021 – 6/2024 \
-- Maintained robotics codebases with a team using Java and Git
+- Taught new members programming, version control, software development practices, calculus, and control theory
+// - Maintained robotics codebases with a team using Java and Git
+// - Contributed to upstream development of critical libraries utilized by teams, including WPILib
+// - Employed and learned control theory, path following, and localization to achieve autonomy in competition
+#{v(-3pt)} Programmer #h(1fr) 11/2021 -- 6/2024 \
+// - Maintained robotics codebases with a team using Java and Git
 - Contributed to upstream development of critical libraries utilized by teams, including WPILib
 - Employed control theory, path following, and localization to achieve autonomy in competition
 
 *Bronx Science Journalism/Yearbook* #h(1fr) Bronx, NY \
-Student Director of IT #h(1fr) 9/2022 – 6/2024 \
+Student Director of IT #h(1fr) 9/2022 -- 6/2024 \
 - Maintained a production LAMP server utilizing bash, Ubuntu, Systemd, Apache, PHP, and Podman
 - Published articles for the school newspaper and yearbook
 
 *NYC FIRST* #h(1fr) NY \
-Volunteer #h(1fr) 11/2022 - 12/2023 \
+Volunteer #h(1fr) 11/2022 -- 12/2023 \
 - Taught foundational programming and robotics knowledge to middle school and high school students
 - Mentored the students to engage in a STEM design process
 - Volunteered at local competitions, including as a referee
@@ -75,8 +84,8 @@ Volunteer #h(1fr) 11/2022 - 12/2023 \
 == Awards
 #linebreak()
 
-*Dean's List Finalist* - FIRST Robotics #h(1fr) 4/2023 \
-*Disruptive Engineering Award* - Beaver Works Summer Institute  #h(1fr) 7/2023
+*Dean's List Finalist* --- FIRST Robotics #h(1fr) 4/2023 \
+*Disruptive Engineering Award* --- Beaver Works Summer Institute  #h(1fr) 7/2023
 
 == Skills
 #linebreak()

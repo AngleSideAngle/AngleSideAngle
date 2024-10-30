@@ -1,3 +1,3 @@
 <!--- This README is used in the rendering of my website -->
 
-I'm an incoming freshman at MIT interested in programming and learning how things work. I love robotics, physics, osdev, and more.
+I'm a freshman studying computer science at MIT interested in robotics, controls, and operating systems.

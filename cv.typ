@@ -1,5 +1,5 @@
 #set page("us-letter")
-#show heading: set text(font: "Linux Biolinum")
+#show heading: set text(font: "Libertinus Serif")
 
 #show link: underline
 
@@ -9,7 +9,7 @@
 
 // Feel free to change the margin below to best fit your own CV
 #set page(
-  margin: (x: 0.9cm, y: 1.3cm),
+  margin: (x: 1.25cm, y: 1.25cm),
   // margin: (x: 0.4in, y: 0.2in)
 )
 
@@ -29,8 +29,9 @@
 
 *Massachusetts Institute of Technology* #h(1fr) Cambridge, MA \
 Candidate for Bachelor's Degree in Computer Science #h(1fr) 8/2024 -- Present \
-- Programmer on the MIT Motorsports FSAE team
-// - Conducting research on system integration for UAVs with the MIT Marine Autonomy Lab
+- Completed _Fundamentals of Programming_ and _Introduction to Low-level Programming_
+- Currently taking _Robotics: Science and Systems_ and _Computation Structures_
+// - Programmer on the MIT Motorsports FSAE team
 
 *The Bronx High School of Science* #h(1fr) Bronx, NY \
 Advanced Regents Diploma #h(1fr) 8/2020 -- 6/2024 \
@@ -41,27 +42,29 @@ Advanced Regents Diploma #h(1fr) 8/2020 -- 6/2024 \
 == Experience
 #linebreak()
 
-*MIT Marine Autonomy Lab* #h(1fr) Cambridge, MA \
-Undergraduate Researcher #h(1fr) 9/2024 -- Present \
-- Develop open source interfaces and device drivers for GPS, doppler velocity log, and acoustic modem sensors
-- Integrate sensor components with MOOS-IvP framework to support lab research
+*MIT Motorsports* #h(1fr) Cambridge, MA \
+Autonomous Driving Software Engineer #h(1fr) 8/2024 -- Present \
+- Create codebase for newly founded autonomous racing team
+- Support subteam with ROS 2 and Linux problems
+- Develop model predictive control implementation for racecar
+- Rewrite ROS build and dependency management system to be more reproducible
 
 *Charles Stark Draper Laboratory* #h(1fr) Cambridge, MA \
 Autonomous Systems Intern #h(1fr) 6/2024 -- 8/2024 \
 - Developed software for control and simulation of a fully autonomous rover with ROS2 and Gazebo
 - Collaborated with engineering team of 7 interns to budget, plan, and implement solution to design challenge
 
-*Beaver Works Summer Institute* #h(1fr) Cambridge, MA \
-Autonomous RACECAR Competitor #h(1fr) 7/2023 -- 7/2023 \
+// *Beaver Works Summer Institute* #h(1fr) Cambridge, MA \
+// Autonomous RACECAR Competitor #h(1fr) 7/2023 -- 7/2023 \
 // - Led and supported 3 person team to honorable mention in the Grand Prix
 // - Rewrote part of the course’s core library to improve efficiency for all competing and future teams
-- Implemented real time autonomous control of small vehicle with ackermann steering
-- Researched particle filtering based SLAM and autonomous navigation using LIDAR and IMU sensors
+// - Implemented real time autonomous control of small vehicle with ackermann steering
+// - Researched particle filtering based SLAM and autonomous navigation using LIDAR and IMU sensors
 
 *SciBorgs Robotics Team* #h(1fr) Bronx, NY \
 Head of Software #h(1fr) 5/2023 -- 6/2024 \
 - Led software team of 10+ people in development and integration of robot software
-- Taught new members programming, version control, software development practices, calculus, and control theory
+- Taught new members programming, version control, software development, calculus, and basic control theory
 // - Maintained robotics codebases with a team using Java and Git
 // - Contributed to upstream development of critical libraries utilized by teams, including WPILib
 // - Employed and learned control theory, path following, and localization to achieve autonomy in competition
@@ -91,7 +94,7 @@ Volunteer #h(1fr) 11/2022 -- 12/2023 \
 #linebreak()
 
 #let typst  = {
-  text(font: "Linux Libertine", weight: "semibold", fill: eastern)[typst]
+  text(font: "Libertinus Serif", weight: "semibold", fill: eastern)[typst]
 }
 
 #let latex = {
@@ -105,7 +108,7 @@ Volunteer #h(1fr) 11/2022 -- 12/2023 \
     })
 }
 
-*Programming*: C++, Rust, Python, Java, Bash, C\#, JS, TS, PHP \
-*Robotics*: ROS2, Gazebo, Nav2, MOOS-IvP, OpenCV, AprilTags \
-*Tools*: Fedora, Ubuntu, Systemd, Helix, #typst, #latex, Apache, Podman, Docker, Git, GitHub
+*Programming*: Rust, Python, Java, C, C++, Bash, C\#, JS, TS, PHP \
+*Robotics*: ROS2, Gazebo  \
+*Tools*: Linux, Systemd, Nix, Docker/Podman, Helix, #typst, #latex, Git
 

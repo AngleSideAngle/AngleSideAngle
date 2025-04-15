@@ -20,7 +20,7 @@
 = Asa Paparo
 
 #link("mailto:paparoa@mit.edu")[paparoa\@mit.edu]
-| #link("https://anglesideangle.github.io/")[anglesideangle.github.io]
+| #link("https://anglesideangle.dev/")[anglesideangle.dev]
 | #link("https://github.com/AngleSideAngle")[github.com/anglesideangle]
 | #link("https://www.linkedin.com/in/asa-paparo/")[linkedin.com/in/asa-paparo]
 
